@@ -1,0 +1,4 @@
+black #141521 
+gray #848484
+blue #23c5c8 
+red #dc3a37
